@@ -118,13 +118,13 @@ To view or edit the 3D models, open the Fusion 360 files with Autodesk Fusion 36
 
 ### 4. Upload the Code
 
-##Fetching Code
+# Fetching Code
 1. Open `esp_fetching.ino` in the Arduino IDE.
 2. Select the correct board and port under **Tools** -> **Board** and **Tools** -> **Port**. (in this case the Generic Esp8266 module).
 3. Ensure you are in programmer mode for the Esp8266 module.
 4. Click the **Upload** button to program the Arduino.
 
-##Displaying code
+#  Displaying code
 1. Open `Arduino_uno_Led_lights_and_clock.ino` in the Arduino IDE.
 2. Select the correct board and port under **Tools** -> **Board** and **Tools** -> **Port**. (in this case the Arduino Uno).
 3. Ensure that the ESP8266 module is **NOT** in Programmer Mode, and the pins are RX->RX and TX->TX.
