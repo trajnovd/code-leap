@@ -214,5 +214,6 @@ We welcome contributions to make this project even better. Here's how you can co
 
 ## Acknowledgments
 
-Special thanks to **Jakov Spriovski** and **Bojan Eftimoski**, co-creators of this repository, for their invaluable contributions and support in building this project.
+Special thanks to [Jakov Spriovski](https://github.com/dokicaaa) and [Bojan Eftimoski](https://github.com/bojan-eftimoski), co-creators of this repository, for their invaluable contributions and support in building this project.
+
 
