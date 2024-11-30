@@ -162,14 +162,14 @@ To view or edit the 3D models, open the Fusion 360 files with Autodesk Fusion 36
 
 ### Main Components
 
-- **Arduino_uno_Led_lights_and_clock.ino**: The Arduino code responsible for:
+- **Arduino_uno_code.ino**: The Arduino code responsible for:
   - Receiving data via serial communication.
   - Controlling the RGB LED based on pollution levels.
   - Displaying values on the 4-digit 7-segment display.
   - Adjusting the display output for a physically flipped module
 
 
-- **esp_fetching.ino**: The ESP8266 code responsible for:
+- **esp8226_module.ino**: The ESP8266 code responsible for:
   - Establishing a Wi-Fi connection to the specified network.
   - Authenticating and fetching data from the Pulse Eco API using HTTPS.
   - Parsing and filtering PM10 sensor data from the API response.
