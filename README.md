@@ -10,6 +10,7 @@ An Arduino-based device designed to display real-time air pollution levels using
 - [Features](#features)
 - [Hardware Requirements](#hardware-requirements)
 - [Software Requirements](#software-requirements)
+- [3D Models](#3d-models)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Code Explanation](#code-explanation)
@@ -63,6 +64,20 @@ This project involves creating a compact, Arduino-based device that displays air
     - Go to **Sketch** -> **Include Library** -> **Manage Libraries...**
     - Search for **TM1637Display** and install the latest version.
 - **Similar Installation for the Esp8266 library**
+
+---
+
+## 3D Models
+
+The repository includes Fusion 360 files and 3D models for the enclosure. These files can be used to 3D print or modify the design of the box housing the components.
+
+- **Directory**: `3D_Models/`
+- Files included:
+  - Fusion 360 project file (`.f3d`)
+  - STL files for 3D printing
+  - STEP files for compatibility with other CAD software
+
+To view or edit the 3D models, open the Fusion 360 files with Autodesk Fusion 360 or import the STEP files into your preferred 3D modeling software.
 
 ---
 
