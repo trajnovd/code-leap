@@ -79,7 +79,6 @@ The repository includes Fusion 360 files and 3D models for the enclosure. These 
 - Files included:
   - Fusion 360 project file (`.f3d`)
   - STL files for 3D printing
-  - STEP files for compatibility with other CAD software
 
 To view or edit the 3D models, open the Fusion 360 files with Autodesk Fusion 360 or import the STEP files into your preferred 3D modeling software.
 
