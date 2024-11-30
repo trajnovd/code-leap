@@ -1,9 +1,9 @@
 # Air Pollution Awareness Display
 
-An Arduino-based device designed to display real-time air pollution levels using LEDs and a 4-digit 7-segment display. The device aims to raise awareness about air quality at bus stops throughout the city and promote the Pulse Eco brand.
+An Arduino-based device designed to display real-time air pollution using the pulse.eco Rest API levels using LEDs and a 4-digit 7-segment display. The device aims to raise awareness about air quality at bus stops throughout the city and promote the Pulse Eco brand.
 
 ---
-
+ 
 ## Table of Contents
 
 - [Introduction](#introduction)
