@@ -1,11 +1,10 @@
-# Air Pollution Awareness Display
+# pulse-stop: Air Pollution Awareness Display
 
 An Arduino-based device designed to display real-time air pollution using the pulse.eco Rest API levels using LEDs and a 4-digit 7-segment display. The device aims to raise awareness about air quality at bus stops throughout the city and promote the Pulse Eco brand.
 
 ---
-##
 ![Mockup-closeup](mockup-close.png)
-##
+
 ![Mockup-bus_station](mockup-codeleap.png)
 ##
  
@@ -76,7 +75,7 @@ This project involves creating a compact, Arduino-based device that displays air
 
 The repository includes Fusion 360 files and 3D models for the enclosure. These files can be used to 3D print or modify the design of the box housing the components.
 
-- **Directory**: `3D_Models/`
+- **Directory**: `3D-Models/`
 - Files included:
   - Fusion 360 project file (`.f3d`)
   - STL files for 3D printing
