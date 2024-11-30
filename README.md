@@ -203,19 +203,7 @@ To view or edit the 3D models, open the Fusion 360 files with Autodesk Fusion 36
 
 ---
 
-## Contributing
-
-##
-
-We welcome contributions to make this project even better. Here's how you can contribute:
-
-1. Fork the repository.
-2. Clone your fork locally:
-
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-
-## Acknowledgments
+## Our Team
 
 Special thanks to [Jakov Spriovski](https://github.com/dokicaaa) and [Bojan Eftimoski](https://github.com/bojan-eftimoski), co-creators of this repository, for their invaluable contributions and support in building this project.
 
