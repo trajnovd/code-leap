@@ -3,7 +3,7 @@
 An Arduino-based device designed to display real-time air pollution using the pulse.eco Rest API levels using LEDs and a 4-digit 7-segment display. The device aims to raise awareness about air quality at bus stops throughout the city and promote the Pulse Eco brand.
 
 ---
-![Mockup-closeup](mockup-close.png)
+![Mockup-closeup](pulse-eco_mockup.png)
 
 ![Mockup-bus_station](mockup-codeleap.png)
 ##
